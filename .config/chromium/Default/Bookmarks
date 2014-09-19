@@ -1,0 +1,48 @@
+{
+   "checksum": "dc991f8a2c0863842ceb5fa1cc27e05d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13045693451124769",
+            "id": "4",
+            "name": "Typingweb",
+            "type": "url",
+            "url": "http://www.typingweb.com/"
+         }, {
+            "date_added": "13045693545804752",
+            "id": "5",
+            "name": "ABCya.com",
+            "type": "url",
+            "url": "http://www.abcya.com/"
+         }, {
+            "date_added": "13045694975093294",
+            "id": "6",
+            "name": "Starfall",
+            "type": "url",
+            "url": "http://www.starfall.com/"
+         } ],
+         "date_added": "13045693344568592",
+         "date_modified": "13046467945028860",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13045693344568612",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13045693344568615",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

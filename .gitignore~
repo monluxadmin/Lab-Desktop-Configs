@@ -1,0 +1,55 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.dbus/
+Desktop/
+.dmrc
+Documents/
+Downloads/
+.gnome/
+.gnome2/
+.hplip/
+.ICEauthority
+.local/
+.macromedia/
+.mozilla/
+Music/
+Pictures/
+.pki/
+.profile
+Public/
+.scratch/
+Scratch/
+.ssh/
+Templates/
+.thumbnails/
+Videos/
+.vnc/
+.Xauthority
+.Xdefaults
+.xscreensaver
+.xsession-errors
+.xsession-errors.old
+.config/chromium/Default/Application Cache/
+.config/chromium/Default/History-journal
+.config/chromium/Default/History
+.config/chromium/Local State
+.config/chromium/Default/Current Session
+.config/chromium/Default/Extension State/
+.config/chromium/Default/IndexedDB/
+.config/chromium/Default/Cookies
+.config/chromium/Default/Cookies-journal
+.config/chromium/Default/Current Session
+.config/chromium/Default/Favicons
+.config/chromium/Default/Favicons-journal
+.config/chromium/Default/GPUCache/
+.config/chromium/Default/Local Storage/
+.config/chromium/Default/Session Storage/
+.config/chromium/SingletonCookie
+.config/chromium/SingletonLock
+.config/chromium/SingletonSocket
+
+
+
+
