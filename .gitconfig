@@ -1,3 +1,5 @@
 [user]
 	email = priya.scribe.net
 	name = Monluxadmin
+[http]
+	sslverify = false
